@@ -3,7 +3,7 @@
 ###############################################
 
 name: GitHub's Super Linter
-on: pus
+on: push
 jobs:
  run-linters:
    name: GitHub's Super Linter
